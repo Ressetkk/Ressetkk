@@ -1,4 +1,4 @@
-### Hi there 👋
+### It's dangerous to go alone 👋
 
 <!--
 **Ressetkk/Ressetkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like working on weird and pointless stuff. If you have a coffee then we have a deal.
